@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **QA Testing, HTML, CSS, Javascript, Reactjs, Tailwind**
 
-- 📫 How to reach me **peggi@zendease.com**
+- 📫 How to reach me **peggijelita@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
